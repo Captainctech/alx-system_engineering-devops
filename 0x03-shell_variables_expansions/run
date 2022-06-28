@@ -1,0 +1,5 @@
+#!/bin/bash
+chmod a+x *
+git add .
+git commit -m '0x03-shell_variables_expansions update'
+git push
